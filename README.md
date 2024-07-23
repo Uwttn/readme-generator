@@ -1,9 +1,9 @@
-# README-generator
+# README-Generator
 
   [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
    ## Description
-  A script to prompt questions which will allow the creation of a README
+  A questionaire that allows to create a README
 
   ## License
   This project is licensed under the [MIT](https://opensource.org/licenses/MIT) license.
@@ -11,7 +11,7 @@
 <details>
 <summary>Table of Contents</summary>
 
-* [Title](#README-generator) 
+* [Title](#README-Generator) 
 * [Initial Setup](#initial-setup)
 * [Project Setup](#project-setup)
 * [Languages](#languages)
@@ -21,8 +21,8 @@
 
 </details>
 
-# README-generator
-- A script to prompt questions which will allow the creation of a README
+# README-Generator
+- A questionaire that allows to create a README
 
 # Initial setup
 
