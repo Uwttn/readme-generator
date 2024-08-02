@@ -1,3 +1,15 @@
+<details>
+<summary>Table of Contents</summary>
+
+* [Initial Setup](#initial-setup)
+* [Project Setup](#project-setup)
+* [Languages](#languages)
+* [Usage](#usage)
+* [Contribution](#contribution)
+* [Questions](#questions)
+
+</details>
+
 # README-Generator
 
   [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
@@ -8,18 +20,6 @@
   ## License
   This project is licensed under the [MIT](https://opensource.org/licenses/MIT) license.
 
-<details>
-<summary>Table of Contents</summary>
-
-* [Title](#README-Generator) 
-* [Initial Setup](#initial-setup)
-* [Project Setup](#project-setup)
-* [Languages](#languages)
-* [Usage](#usage)
-* [Contribution](#contribution)
-* [Questions](#questions)
-
-</details>
 
 # README-Generator
 - A questionaire that allows to create a README
