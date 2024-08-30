@@ -14,6 +14,8 @@
 
   [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
+  ![alt text](assets/readme.png)
+
    ## Description
   A questionaire that allows to create a README
 
