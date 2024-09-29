@@ -1,6 +1,17 @@
+# A README Generator
+
+  [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
+   ## Description
+  A project that generates a README for faster use.
+
+  ## License
+  This project is licensed under the [MIT](https://opensource.org/licenses/MIT) license.
+
 <details>
 <summary>Table of Contents</summary>
 
+* [Title](#A README Generator) 
 * [Initial Setup](#initial-setup)
 * [Project Setup](#project-setup)
 * [Languages](#languages)
@@ -10,21 +21,8 @@
 
 </details>
 
-# README-Generator
-
-  [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-
-  ![alt text](assets/readme.png)
-
-   ## Description
-  A questionaire that allows to create a README
-
-  ## License
-  This project is licensed under the [MIT](https://opensource.org/licenses/MIT) license.
-
-
-# README-Generator
-- A questionaire that allows to create a README
+# A README Generator
+- A project that generates a README for faster use.
 
 # Initial setup
 
@@ -58,7 +56,7 @@
 ## To use the application:
 1. Open a terminal window.
 2. Navigate to the directory where the application is located (index.js).
-3. Run the application using its command (node <filepath>)
+3. Run the application using its command (node index.js)
 
 # Languages
 HTML, CSS, JavaScript
@@ -83,6 +81,7 @@ Want to improve this project? Great! We encourage contribution to make this proj
 # Questions
 ## Contact Me
 
-- Jose's [Portfolio](https://uwttn.github.io/portfolio/)
-- GitHub: [uwttn](https://github.com/uwttn)
-- LinkedIn: [uwttn](https://www.linkedin.com/in/uwttn)
+- [Jose'sPortfolio](https://uwttn.github.io/portfolio/)
+- [GitHub](https://github.com/uwttn)
+- [LinkedIn](https://www.linkedin.com/in/uwttn)
+- [Email](muchati@icloud.com)

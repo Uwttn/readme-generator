@@ -44,7 +44,7 @@ const questions = [
     },
     {
         type: `input`,
-        message: `What is your email`,
+        message: `What is your email?`,
         name: `email`,
     }
 ];
@@ -103,7 +103,7 @@ function writeToFile(fileName, data) {
 ## To use the application:
 1. Open a terminal window.
 2. Navigate to the directory where the application is located (index.js).
-3. Run the application using its command (node <filepath>)
+3. Run the application using its command (node index.js)
 
 # Languages
 ${data.languages.join(", ")}
@@ -128,10 +128,10 @@ Want to improve this project? Great! We encourage contribution to make this proj
 # Questions
 ## Contact Me
 
-- ${data.author}'s [Portfolio](https://uwttn.github.io/portfolio/)
-- GitHub: [${data.github}](https://github.com/${data.github})
-- LinkedIn: [${data.linkedin}](https://www.linkedin.com/in/${data.linkedin})
-- Email: ${data.email}
+- [${data.author}'sPortfolio](https://uwttn.github.io/portfolio/)
+- [GitHub](https://github.com/${data.github})
+- [LinkedIn](https://www.linkedin.com/in/${data.linkedin})
+- [Email](${data.email})
 `;
 
     fs.writeFile(fileName, content, (err) => {
