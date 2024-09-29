@@ -22,7 +22,7 @@
 </details>
 
 # A README Generator
-- A project that generates a README for faster use.
+- A project that generates a README for faster use. A demonstration of this project is located at this [link](https://www.youtube.com/watch?v=eP6vSEuVqBo&t=9s)
 
 # Initial setup
 
